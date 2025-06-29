@@ -479,10 +479,12 @@ footer {
 
   .section3 {
     height: 500px;
+    font-size: 12px;
   }
 
   footer {
     font-size: 10px;
+    font-size: 12px;
   }
   p {
     font-size: 15px;
